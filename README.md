@@ -1,4 +1,4 @@
-# Sudoku-Solver---2021
+# Sudoku-Solver - 2021
 ## Input / Output
 ### Input
 The program reads a Sudoku from stdin (using cin). it reads n integers, each separated by
